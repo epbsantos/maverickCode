@@ -1,0 +1,1 @@
+<!DOCTYPE html>\n<html>\n    <body>\n    \n        <h1>O que o JavaScript faz?</h1>\n        \n        <p id="demo">JavaScript pode mudar o conteúdo do HTML.</p>\n        \n        <button type="button"\n        onclick="document.getElementById('demo').innerHTML = 'Olá JavaScript!'">\n        Clique aqui!</button>\n    \n    </body>\n</html>
